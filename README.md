@@ -22,7 +22,7 @@ Install StructFormer by devtools in R
 
     devtools::install_github("Jinglab/StructFormer")
     
-Alternatively, you can download the [StructFormer_1.0.tar.gz](https://github.com/Jinglab/StructFormer/blob/main/StructFormer_1.0.tar.gz) package file from this GitHub repository and install it locally.
+Alternatively, you can download the [StructFormer_1.0.tar.gz](https://github.com/Jinglab/StructFormer/blob/main/Structformer_1.0.tar.gz) package file from this GitHub repository and install it locally.
 
     install.packages("home/xfan/MLTLS_package/StructFormer_1.0.tar.gz")
 
