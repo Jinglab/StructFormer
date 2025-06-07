@@ -9,7 +9,7 @@ This toolkit is implemented in both R and Python programming languages. Therefor
 
 ### Installation of StructFormer
 
-To use StructFormer, first use the [yaml file](https://github.com/Jinglab/StructFormer/blob/main/StructFormer_env.yml) to create StructFormer Conda environment (The CUDA version must be between 12.0 and 12.6 (inclusive). If a version outside this range is used, users may need to perform manual installation according to the software versions specified in the documentation.).
+To use StructFormer, first use the [yaml file](https://github.com/Jinglab/StructFormer/blob/main/StructFormer_env_cuda12.4.yml) to create StructFormer Conda environment (The CUDA version must be between 12.0 and 12.6 (inclusive). If a version outside this range is used, users may need to perform manual installation according to the software versions specified in the documentation.).
 
     conda env create -f StructFormer_env.yml
 
