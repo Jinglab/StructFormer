@@ -1,4 +1,4 @@
-name: StructFormer_test
+name: StructFormer_env
 channels:
   - defaults
 dependencies:
