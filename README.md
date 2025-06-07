@@ -38,7 +38,7 @@ Download the 10x Visium breast cancer pre-trained BERT and demo data from Google
 1.Load package and demo data
 
     library(Seurat)
-    library(StructFormer)
+    library(Structformer)
     library(reticulate)
     library(tidyverse)
     st_dat_train <- readRDS("home/xfan/MLTLS_package/demo_data/bc_st_demo_data.rds")
